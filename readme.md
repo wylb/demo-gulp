@@ -56,7 +56,8 @@ npm install -g gulp
     - gulp.dev.js       开发环境配置文件
     - gulp.prod.js      生产环境配置文件
 * gulpfile.js
-具体配置信息见：[配置文件信息]
+
+具体配置信息见：[build中](https://github.com/wylb/demo-gulp/tree/master/build)
 ### 5.项目整体结构如下
 * build    配置文件存储目录
     - config.prod.js    生产环境公共配置文件
